@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+
+.container {
+  width: 300vw;
+  transition: transform 0.5s;
+}
+
+.inner {
+  width: 100vw;
+  float: left;
+}
+
+.inner img {
+  width: 100%;
+}
+
+button {
+  font-size: 50px;
+  top: 50%;
+}
